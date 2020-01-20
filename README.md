@@ -1,6 +1,6 @@
 # Music_visualization
 
-Functionality: 
+Functionality:  
 0) Uses Teensy 3.2
 1) Gets the audio input from 3.5mm minijack 
 2) Outputs the signal to audio speakers
