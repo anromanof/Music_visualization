@@ -6,4 +6,6 @@ Functionality:
 3) Outputs the signal to audio speakers
 4) Calculates Fourier Transform of the signal and broadcasts it to the LED panel (equalizer)
 
+![equalizer](https://github.com/anromanof/Music_visualization/blob/master/musicVIz.PNG)
+
 TODO: upload an HTML file with the video and the schematic. Make a header file for visualize().
